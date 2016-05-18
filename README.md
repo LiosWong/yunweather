@@ -11,7 +11,7 @@
     思路非常简单，通过选择所在市县，然后从服务器上取下天气信息显示到客户端。
 * 素材来源：
 Material-Design-Icons,[Google Calendar](http://www.google.com/calendar/about/),[Dribbble.com](https://Dribble.com),[花瓣网](http://huaban.com/),[千图网](http://www.58pic.com/)。
-* 开源工具
+* 开源工具:
 GSON-2.2.4,okhttp-3.2
 
 
@@ -23,7 +23,7 @@ GSON-2.2.4,okhttp-3.2
 ![](http://i2.buimg.com/eacfa7bf748a02ce.png)
 ![](http://i2.buimg.com/cef764db864a9287.png)
 
-2.网络请求框架okhttp3.2
+2.网络请求框架((okhttp3.2)
 <br  />
 ```
 ...
