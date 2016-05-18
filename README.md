@@ -26,6 +26,8 @@ GSON-2.2.4,okhttp-3.2
 2.网络请求框架okhttp3.2
 <br  />
 ```
+...
+
 final OkHttpClient client = new OkHttpClient();
  
 public void run() throws Exception {
@@ -47,4 +49,5 @@ public void run() throws Exception {
      }
   });
  }
+ ...
 ```
