@@ -1,5 +1,5 @@
 ###由于该项目还在完善中，项目逐步趋于完善时，会公布整个项目的源码。
-####关于项目
+####项目信息
 * 功能：
        1. 免费全国两千多个省市县的天气信息
        2. 当天不同时段的天气预报
@@ -13,3 +13,5 @@
 Material-Design-Icons,[Google Calendar](http://www.google.com/calendar/about/),[Dribbble.com](https://Dribble.com),[花瓣网](http://huaban.com/),[千图网](http://www.58pic.com/)。
 * 开源工具
 GSON-2.2.4,okhttp-3.2
+####项目实施
+1. 1数据库设计
