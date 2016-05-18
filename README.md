@@ -64,4 +64,4 @@ public void run() throws Exception {
 下载，如果对应用有任何意见，欢迎给我发邮件，不甚感谢;如果喜欢该应用，请分享给您的朋友，谢谢(*^‧^*)
 
 ####应用截图
-![](http://i4.buimg.com/92053b1ab64ddb31.png) ![](http://i4.buimg.com/54734e4bb25b225d.png)  ![](http://i4.buimg.com/43249ed1dc01f74b.png)  ![](http://i4.buimg.com/e022431553ace560.png)  ![](http://i4.buimg.com/6db8418f2d736f9c.png)  ![](http://i4.buimg.com/caa5db910b219812.png) 
+![](http://i4.buimg.com/7aeafa66620a8636.png) ![](http://i4.buimg.com/54734e4bb25b225d.png)  ![](http://i4.buimg.com/43249ed1dc01f74b.png)  ![](http://i4.buimg.com/e022431553ace560.png)  ![](http://i4.buimg.com/6db8418f2d736f9c.png)  ![](http://i4.buimg.com/caa5db910b219812.png) 
