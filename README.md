@@ -7,5 +7,5 @@
     思路非常简单，通过选择所在市县，然后从服务器上取下天气信息显示到客户端。
 * 素材来源：
 Material-Design-Icons,[Google Calendar](http://www.google.com/calendar/about/),[Dribbble.com](https://Dribble.com),[花瓣网](http://huaban.com/),[千图网](http://www.58pic.com/)。
-*开源工具
+* 开源工具
 GSON-2.2.4,okhttp-3.2
