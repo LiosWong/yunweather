@@ -22,8 +22,9 @@ GSON-2.2.4,okhttp-3.2
 ![](http://i2.buimg.com/2ce073f2cab33642.png)    
 ![](http://i2.buimg.com/eacfa7bf748a02ce.png)
 ![](http://i2.buimg.com/cef764db864a9287.png)
-2.网络请求框架okhttp3.2
 
+2.网络请求框架okhttp3.2
+<br  />
 ```
 final OkHttpClient client = new OkHttpClient();
  
