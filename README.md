@@ -55,6 +55,10 @@ public void run() throws Exception {
 
 
 ####应用下载：
-您可以前往[豌豆荚](http://www.wandoujia.com/apps/com.yunweather.android),
+您可以前往
 <br />
-[fir.im](http://fir.im/apps/573a9e0f00fc747d17000001)下载，如果对应用有任何意见，欢迎给我发邮件，不甚感激你们的建议;如果喜欢该应用，麻烦分享给您的朋友，谢谢！
+[豌豆荚](http://www.wandoujia.com/apps/com.yunweather.android),
+<br />
+[fir.im](http://fir.im/apps/573a9e0f00fc747d17000001)
+<br />
+下载，如果对应用有任何意见，欢迎给我发邮件，不甚感激你们的建议;如果喜欢该应用，麻烦分享给您的朋友，谢谢！
