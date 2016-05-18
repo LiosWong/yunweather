@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center_vertical" android:background="@drawable/common_bg_black_a10_selector" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="50.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/invoice_title_select" android:layout_width="18.0dip" android:layout_height="18.0dip" android:layout_marginLeft="10.0dip" android:layout_marginTop="10.0dip" android:layout_marginBottom="10.0dip" android:src="@drawable/common_ico_singlecheck_selector" android:layout_centerVertical="true" android:contentDescription="@string/app_name" />
+    <RelativeLayout android:id="@id/invoice_title_list_exchange" android:background="@drawable/common_bg_black_a10_selector" android:layout_width="44.0dip" android:layout_height="50.0dip" android:layout_alignParentRight="true">
+        <ImageView android:id="@id/invoice_title_arrow" android:layout_width="10.0dip" android:layout_height="10.0dip" android:layout_marginRight="10.0dip" android:src="@drawable/common_icon_arrow" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:contentDescription="@string/app_name" />
+        <ImageView android:id="@id/invoice_title_delete" android:visibility="gone" android:layout_width="18.0dip" android:layout_height="18.0dip" android:src="@drawable/common_ico_delete_selector" android:layout_centerInParent="true" android:contentDescription="@string/app_name" />
+        <ImageView android:id="@id/invoice_title_edit" android:visibility="gone" android:layout_width="15.0dip" android:layout_height="15.0dip" android:src="@drawable/common_list_item_edit_selector" android:layout_centerInParent="true" android:contentDescription="@string/app_name" />
+    </RelativeLayout>
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/address_data_content" android:layout_width="fill_parent" android:layout_height="50.0dip" android:layout_marginLeft="10.0dip" android:layout_toLeftOf="@id/invoice_title_list_exchange" android:layout_toRightOf="@id/invoice_title_select">
+        <TextView android:id="@id/invoice_title_value" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="" android:singleLine="true" android:layout_weight="1.0" style="@style/text_15_333333" />
+        <View android:id="@id/invoice_title_line" android:background="@color/ui_bg_divider" android:layout_width="1.0px" android:layout_height="fill_parent" />
+    </LinearLayout>
+</RelativeLayout>

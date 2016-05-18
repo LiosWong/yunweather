@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/cityselect"
+            android:icon="@drawable/city"
+            android:title="选择省市" />
+    </group>
+
+    <item android:title="YunWeather">
+        <menu>
+            <item
+                android:id="@+id/Setting"
+                android:icon="@drawable/setting"
+                android:title="Setting" />
+            <item
+                android:id="@+id/About"
+                android:actionLayout="@layout/choose_area"
+                android:icon="@drawable/about"
+                android:title="About" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/ic_ascending" android:id="@id/action_normal_order" android:title="@string/action_normal_order" app:showAsAction="always" />
+    <item android:icon="@drawable/ic_descending" android:id="@id/action_reverse_order" android:title="@string/action_reverse_order" app:showAsAction="always" />
+    <item android:id="@id/action_cancel_reply_to" android:visible="false" android:title="@string/action_cancel_reply_to" app:showAsAction="always" />
+</menu>

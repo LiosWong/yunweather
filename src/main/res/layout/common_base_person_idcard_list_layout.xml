@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:background="@color/main_bg" android:clickable="true" android:duplicateParentState="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:fsms="http://schemas.android.com/apk/res-auto" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ctrip.base.logical.component.widget.CtripTitleView android:id="@id/idcard_list_title" android:layout_width="fill_parent" android:layout_height="@dimen/titlePreferredHeight" app:title_btn_text="@string/finish" app:title_btn_width="@dimen/title_btn_width" app:title_btn_height="@dimen/title_btn_height" app:title_btn_bg="@drawable/common_btn_common_complete_selector" />
+    <ScrollView android:orientation="vertical" android:background="@drawable/common_all_oval_angle_shape_normal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="10.0dip">
+        <LinearLayout android:orientation="vertical" android:id="@id/id_card_list" android:visibility="gone" android:duplicateParentState="false" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </ScrollView>
+    <TextView android:id="@id/limit_alert" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="20.0dip" style="@style/text_12_666666" />
+</LinearLayout>

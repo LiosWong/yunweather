@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhihu.android.base.widget.ZHLinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/linear" android:tag="layout/header_article_info_0" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="72.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.zhihu.android.app.ui.widget.CircleAvatarView android:id="@id/avatar" android:layout_width="@dimen/card_avatar_size" android:layout_height="@dimen/card_avatar_size" android:layout_marginLeft="@dimen/dp16" android:layout_marginRight="@dimen/dp8" />
+    <com.zhihu.android.base.widget.ZHLinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginRight="@dimen/dp8">
+        <com.zhihu.android.base.widget.ZHLinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <com.zhihu.android.base.widget.ZHTextView android:textAppearance="?zhihu.textAppearance.regular.small.primary" android:id="@id/author_name" android:tag="binding_1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:drawablePadding="@dimen/dp8" />
+            <com.zhihu.android.base.widget.ZHTextView android:textAppearance="?zhihu.textAppearance.column.name" android:ellipsize="end" android:id="@id/column_name" android:tag="binding_2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/dp8" android:singleLine="true" android:drawableLeft="?zhihu.icon.column.triangle" android:drawablePadding="@dimen/dp8" android:drawableStart="?zhihu.icon.column.triangle" />
+        </com.zhihu.android.base.widget.ZHLinearLayout>
+        <com.zhihu.android.base.widget.ZHTextView android:textAppearance="?zhihu.textAppearance.regular.small.primary" android:ellipsize="end" android:id="@id/author_headline" android:tag="binding_3" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" />
+    </com.zhihu.android.base.widget.ZHLinearLayout>
+</com.zhihu.android.base.widget.ZHLinearLayout>

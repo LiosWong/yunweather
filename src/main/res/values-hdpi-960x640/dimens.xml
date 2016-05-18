@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="forecast_detail_viewpager_item_center_line_margin">14.0dip</dimen>
+    <dimen name="forecast_detail_viewpager_item_day_margin">15.0dip</dimen>
+    <dimen name="forecast_detail_viewpager_item_temperature_margin">15.0dip</dimen>
+    <dimen name="forecast_detail_viewpager_item_wind_margin">2.0dip</dimen>
+    <dimen name="forecast_detail_viewpager_item_aqi_margin">1.0dip</dimen>
+    <dimen name="forecast_detail_week_hscroll_margin">28.0dip</dimen>
+    <dimen name="forecast_detail_week_item_width">135.0dip</dimen>
+</resources>

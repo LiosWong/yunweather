@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/instabug_top_bar_toolbar" android:layout_width="fill_parent" android:layout_height="@dimen/instabug_actionbar_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageButton android:layout_gravity="center|left" android:id="@id/instabug_action_cancel" android:background="@null" android:layout_width="@dimen/instabug_actionbar_height" android:layout_height="@dimen/instabug_actionbar_height" android:src="@drawable/instabug_ic_back" android:scaleType="centerInside" android:onClick="onClick" />
+    <TextView android:textSize="20.0sp" android:gravity="center_vertical" android:layout_gravity="left" android:id="@id/instabug_txt_title" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="56.0dip" android:layout_marginRight="@dimen/instabug_actionbar_height" android:text="@string/bugheader" />
+    <ImageButton android:layout_gravity="center|right" android:id="@id/instabug_action_send" android:background="@null" android:padding="8.0dip" android:layout_width="@dimen/instabug_actionbar_height" android:layout_height="@dimen/instabug_actionbar_height" android:src="@drawable/instabug_ic_action_send" android:scaleType="centerInside" android:onClick="onClick" />
+</FrameLayout>

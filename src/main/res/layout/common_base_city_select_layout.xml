@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ctrip.base.logical.component.widget.CtripTitleView android:id="@id/title_view" android:background="@drawable/common_pic_titlebar" android:layout_width="fill_parent" android:layout_height="@dimen/titlePreferredHeightNoShadow" app:title_text="@string/city_select_title" />
+    <ctrip.base.logical.component.widget.loadinglayout.CtripLoadingLayout android:id="@id/citylist_partlayout" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/title_view" app:loading_layout="@layout/common_list_view_loading_indicator" app:error_layout_no_data_fail="@layout/common_load_error_layout_nodata_style_2">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:orientation="horizontal" android:id="@id/tap_layout" android:layout_width="fill_parent" android:layout_height="@dimen/city_select_search_height" />
+            <ListView android:id="@id/list_view" android:background="@color/white" android:scrollbars="none" android:fadingEdge="none" android:layoutAnimation="@anim/common_anim_top_to_bottom_slide" android:layout_width="fill_parent" android:layout_height="fill_parent" android:cacheColorHint="#00000000" android:divider="@null" android:dividerHeight="0.0dip" android:layout_below="@id/tap_layout" android:fastScrollEnabled="false" />
+            <LinearLayout android:orientation="vertical" android:id="@id/list_view_index" android:paddingTop="5.0dip" android:paddingBottom="5.0dip" android:layout_width="40.0dip" android:layout_height="fill_parent" android:layout_marginLeft="5.0dip" android:layout_marginRight="5.0dip" android:layout_below="@id/tap_layout" android:layout_alignRight="@id/list_view" />
+        </RelativeLayout>
+    </ctrip.base.logical.component.widget.loadinglayout.CtripLoadingLayout>
+</RelativeLayout>

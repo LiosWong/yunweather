@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:zhihu="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/ic_search" android:id="@id/action_search" android:title="@string/action_search" zhihu:showAsAction="always" />
+    <item android:icon="@drawable/ic_notifications_none" android:id="@id/action_notification" android:title="@string/action_notify" zhihu:showAsAction="always" />
+    <item android:id="@id/action_settings" android:orderInCategory="100" android:title="@string/action_settings" zhihu:showAsAction="never" />
+    <item android:id="@id/action_about" android:orderInCategory="101" android:title="@string/action_about" zhihu:showAsAction="never" />
+</menu>

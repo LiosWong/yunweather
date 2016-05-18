@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:background="@color/main_bg" android:clickable="true" android:duplicateParentState="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ctrip.base.logical.component.widget.CtripTitleView android:id="@id/invoice_title_list_title" android:layout_width="fill_parent" android:layout_height="@dimen/titlePreferredHeight" app:title_text="@string/common_invoice_title" app:title_btn_text="@string/finish" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="10.0dip">
+        <RelativeLayout android:gravity="center_vertical" android:id="@id/add_invoice_title_layout_new" android:background="@drawable/common_top_rectangle_shape_background" android:paddingLeft="10.0dip" android:paddingRight="10.0dip" android:layout_width="fill_parent" android:layout_height="44.0dip">
+            <ImageView android:id="@id/invoice_title_add_image" android:layout_width="15.0dip" android:layout_height="15.0dip" android:src="@drawable/common_icon_add" android:layout_centerVertical="true" android:contentDescription="@string/app_name" />
+            <TextView android:gravity="center" android:id="@id/add_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:text="@string/add_common_invoice_title" android:layout_toRightOf="@id/invoice_title_add_image" android:layout_centerVertical="true" style="@style/text_15_333333" />
+            <ImageView android:layout_width="10.0dip" android:layout_height="10.0dip" android:src="@drawable/common_icon_arrow" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:contentDescription="@string/app_name" />
+        </RelativeLayout>
+        <ctrip.base.logical.component.widget.loadinglayout.CtripLoadingLayout android:id="@id/invoice_title_list_loading_content" android:layout_width="fill_parent" android:layout_height="wrap_content" app:show_error_layout="true">
+            <ListView android:id="@id/invoice_title_list" android:background="@drawable/common_all_oval_angle_shape_normal" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent" android:listSelector="@color/transparent" android:cacheColorHint="#00000000" android:divider="@color/ui_bg_divider" android:dividerHeight="1.0dip" />
+        </ctrip.base.logical.component.widget.loadinglayout.CtripLoadingLayout>
+        <View android:id="@id/listview_bottom_divider" android:visibility="gone" style="@style/list_cell_divider" />
+        <LinearLayout android:orientation="vertical" android:id="@id/no_invoice_title_alert" android:visibility="gone" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip">
+            <ImageView android:layout_gravity="center_horizontal" android:layout_width="65.0dip" android:layout_height="65.0dip" android:src="@drawable/common_pic_page_nodata" android:contentDescription="@string/app_name" />
+            <TextView android:gravity="center" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="15.0dip" android:text="@string/alert_no_invoice_title" style="@style/text_15_666666" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

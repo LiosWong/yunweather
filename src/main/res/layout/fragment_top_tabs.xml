@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhihu.android.base.widget.ZHFrameLayout android:id="@id/root_container" android:tag="layout/fragment_top_tabs_0" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.zhihu.android.base.widget.ZHViewPager android:id="@id/view_pager" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.zhihu.android.app.ui.widget.RhombusDreamView android:id="@id/dream_view" android:background="?colorPrimary" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <com.zhihu.android.base.widget.ZHDraweeView android:id="@id/background_image" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <com.zhihu.android.base.view.ZHView android:id="@id/view_mask" android:background="?colorPrimary" android:layout_width="fill_parent" android:layout_height="wrap_content" android:alpha="0.8" />
+    <com.zhihu.android.base.widget.ZHFrameLayout android:id="@id/extended_info_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <com.zhihu.android.base.widget.ZHTabLayout android:layout_gravity="center_horizontal" android:id="@id/tab_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" style="?attr/zhihu.tab.primary" />
+</com.zhihu.android.base.widget.ZHFrameLayout>

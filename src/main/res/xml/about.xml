@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="YunWeather">
+        <Preference android:title="关于应用" android:key="abouttheapp" />
+        <Preference android:title="版本更新" android:key="update" />
+        <Preference android:title="当前版本" android:key="version" android:summary="Version-1.0.1" />
+        <Preference android:title="分享给朋友" android:key="share" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="关于我">
+        <PreferenceScreen android:title="GitHub" android:key="github" android:summary="https://github.com/osdiy">
+            <intent android:action="android.intent.action.VIEW" android:data="https://github.com/osdiy" />
+        </PreferenceScreen>
+
+        <PreferenceScreen android:title="ITPUB"  android:key="itpub" android:summary="http://blog.itpub.net/29876893/">
+            <intent android:action="android.intent.action.VIEW" android:data="http://blog.itpub.net/29876893/" />
+        </PreferenceScreen>
+
+        <Preference android:title="Gmail" android:key="gmail" android:summary="diy.os.lios@gmail.com" />
+
+        <Preference android:title="Facebook" android:key="facebook" android:summary="https://www.facebook.com/WangLios"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="声明">
+        <Preference android:title="天气API接口服务"  android:key="interface" android:summary="和风天气"/>
+        <Preference android:title="素材" android:key="image" android:summary="来源网络，版权属于原作者" />
+    </PreferenceCategory>
+</PreferenceScreen>

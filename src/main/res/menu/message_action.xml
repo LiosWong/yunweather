@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_delete" android:id="@id/action_delete" android:title="@string/message_action_delete" />
+    <item android:icon="@drawable/ic_copy" android:id="@id/action_copy" android:title="@string/message_action_copy" />
+    <item android:icon="@drawable/ic_flag" android:id="@id/action_report" android:title="@string/message_action_report" />
+</menu>

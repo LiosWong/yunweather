@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <EditText android:id="@id/user_email" android:background="@null" android:padding="10.0dip" android:nextFocusDown="@id/text_composer" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/emailplaceholder" android:maxLines="1" android:singleLine="true" android:maxLength="190" android:layout_weight="1.0" android:inputType="textEmailAddress" android:imeOptions="actionNext" />
+        <View android:id="@id/email_separator" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        <EditText android:gravity="top" android:id="@id/text_composer" android:background="@null" android:padding="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxHeight="200.0dip" android:hint="@string/commentplaceholder" android:minLines="5" android:singleLine="false" android:layout_weight="1.0" android:imeOptions="actionDone" />
+        <LinearLayout android:orientation="horizontal" android:padding="2.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:layout_gravity="center_vertical" android:id="@id/instabug_logo" android:layout_width="20.0dip" android:layout_height="20.0dip" android:scaleType="centerInside" />
+            <TextView android:textSize="12.0sp" android:gravity="center" android:layout_gravity="center" android:id="@id/instabug_pbi_text" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="4.0dip" android:layout_marginTop="2.0dip" android:text="@string/bottommessage" />
+        </LinearLayout>
+    </LinearLayout>
+    <Button android:textSize="16.0sp" android:gravity="center" android:id="@id/send_message" android:layout_width="fill_parent" android:layout_height="48.0dip" android:text="@string/submitbutton" />
+</LinearLayout>

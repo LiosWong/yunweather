@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@id/instabug_bottom_bar_toolbar" android:layout_width="fill_parent" android:layout_height="@dimen/instabug_actionbar_height" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_gravity="center_vertical" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <View android:id="@id/instabug_brush_stroke" android:background="@color/instabug_annotation_color_blue" android:layout_width="30.0dip" android:layout_height="2.0dip" android:layout_below="@id/brush_icon_container" android:layout_centerHorizontal="true" />
+            <FrameLayout android:id="@id/brush_icon_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true">
+                <ImageButton android:id="@id/instabug_action_pick_color" android:background="@null" android:layout_width="35.0dip" android:layout_height="22.0dip" android:src="@drawable/instabug_ic_tool_pen" android:scaleType="center" android:onClick="onClick" />
+            </FrameLayout>
+        </RelativeLayout>
+    </FrameLayout>
+    <ImageButton android:layout_gravity="center_vertical" android:id="@id/instabug_action_open_composer" android:background="@android:color/transparent" android:layout_width="0.0dip" android:layout_height="fill_parent" android:src="@drawable/instabug_ic_tool_text" android:scaleType="center" android:layout_weight="1.0" android:onClick="onClick" />
+    <ImageButton android:layout_gravity="center_vertical" android:id="@id/instabug_action_clear_annotations" android:background="@android:color/transparent" android:layout_width="0.0dip" android:layout_height="fill_parent" android:src="@drawable/instabug_ic_tool_clear" android:scaleType="center" android:layout_weight="1.0" android:onClick="onClick" />
+</LinearLayout>

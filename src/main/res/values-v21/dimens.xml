@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_horizontal_margin">8.0dip</dimen>
+    <dimen name="card_vertical_margin">4.0dip</dimen>
+    <dimen name="status_bar_height_compat">25.0dip</dimen>
+</resources>
