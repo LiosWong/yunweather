@@ -28,18 +28,18 @@ GSON-2.2.4,okhttp-3.2
 final OkHttpClient client = new OkHttpClient();
  
 public void run() throws Exception {
+
     Request request = new Request.Builder()
         .url(url)
         .build();
+        
     client.newCall(request).enqueue(new Callback() {
     
-      @Override 
       public void onFailure(Request request, Throwable throwable) {
       
         
       }
- 
-      @Override
+
       public void onResponse(Response response) throws IOException {
      
 
