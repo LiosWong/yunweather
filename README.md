@@ -4,6 +4,8 @@
 * 目标：
    秉持Material Design设计风格,呈现鲜艳活泼UI外观，给予用户良好体验。
 * 项目思路：
-    思路非常简单，用户通过选择所在市县，然后查询到当地天气信息。
+    思路非常简单，通过选择所在市县，然后从服务器上取下天气信息显示到客户端。
 * 素材来源：
-Material-Design-Icons,Google Calendar,！[Dribbble.com](https://Dribble.com),花瓣网,千图网所提供的图片素材，以及原作者
+Material-Design-Icons,[Google Calendar](http://www.google.com/calendar/about/),[Dribbble.com](https://Dribble.com),[花瓣网](http://huaban.com/),[千图网](http://www.58pic.com/)。
+*开源工具
+GSON-2.2.4,okhttp-3.2
