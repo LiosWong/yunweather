@@ -51,3 +51,5 @@ public void run() throws Exception {
  }
  ...
 ```
+<br  />
+关于项目设计以遇到的问题，会写在博客上，这里不在花篇幅介绍。
