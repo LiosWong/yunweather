@@ -72,5 +72,5 @@ public void run() throws Exception {
 [邮箱:*diy.os.lios@gmail.com*](https://github.com/osdiy/yunweather/blob/master/README.md)
 <br />
 ####应用截图
- <img src="http://i4.buimg.com/92053b1ab64ddb31.png" width = "100" height = "300" alt="图片名称" align=center />
+ <img src="http://i4.buimg.com/92053b1ab64ddb31.png" width = "200" height = "300" alt="图片名称" align=center />
  ![](http://i4.buimg.com/54734e4bb25b225d.png)  ![](http://i4.buimg.com/43249ed1dc01f74b.png)  ![](http://i4.buimg.com/e022431553ace560.png)  ![](http://i4.buimg.com/6db8418f2d736f9c.png)  ![](http://i4.buimg.com/caa5db910b219812.png) 
