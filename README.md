@@ -1,4 +1,4 @@
-###(Android)由于该项目还在完善中，项目逐步趋于完善时，会公布整个项目的源码。
+###(Android)由于该项目还在完善中，项目趋于满意时，会公布整个项目的源码。
 ####项目信息
 * 功能：
        1. 免费全国两千多个省市县的天气信息
@@ -15,7 +15,7 @@ Material-Design-Icons,[Google Calendar](http://www.google.com/calendar/about/),[
 GSON-2.2.4,okhttp-3.2
 
 
-####项目实施
+####项目实施示例
 1.数据库设计
 <br />
 数据库中有三张表:省，市，县,三张表通过主外键联系起来，逻辑比较清晰
@@ -72,4 +72,4 @@ public void run() throws Exception {
 [邮箱:*diy.os.lios@gmail.com*](https://github.com/osdiy/yunweather/blob/master/README.md)
 <br />
 ####应用截图
-![](http://i4.buimg.com/92053b1ab64ddb31.png) ![](http://i4.buimg.com/54734e4bb25b225d.png)  ![](http://i4.buimg.com/43249ed1dc01f74b.png)  ![](http://i4.buimg.com/e022431553ace560.png)  ![](http://i4.buimg.com/6db8418f2d736f9c.png)  ![](http://i4.buimg.com/caa5db910b219812.png) 
+![](http://i4.buimg.com/92053b1ab64ddb31.png  =100x100 ![](http://i4.buimg.com/54734e4bb25b225d.png)  ![](http://i4.buimg.com/43249ed1dc01f74b.png)  ![](http://i4.buimg.com/e022431553ace560.png)  ![](http://i4.buimg.com/6db8418f2d736f9c.png)  ![](http://i4.buimg.com/caa5db910b219812.png) 
