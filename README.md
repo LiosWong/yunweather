@@ -53,7 +53,6 @@ public void run() throws Exception {
 ```
 上面只是简单的介绍项目实施，关于项目设计以及遇到的问题，还有很多需要自我总结思考，这里不再花篇幅介绍，后续会发布在博客上。
 
-
 ####应用下载：
 您可以前往
 <br />
@@ -63,7 +62,6 @@ public void run() throws Exception {
 <br />
 下载，如果对应用有任何意见，欢迎给我发邮件，不甚感谢;如果喜欢该应用，请分享给您的朋友，谢谢(*^‧^*)
 
-<br />
 ####应用截图
  <img src="http://i4.buimg.com/92053b1ab64ddb31.png" width = "150" height = "300" alt="图片名称" align=center />
   <img src="http://i4.buimg.com/54734e4bb25b225d.png" width = "150" height = "300" alt="图片名称" align=center />
