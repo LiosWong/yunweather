@@ -72,4 +72,4 @@ public void run() throws Exception {
 [邮箱:*diy.os.lios@gmail.com*](https://github.com/osdiy/yunweather/blob/master/README.md)
 <br />
 ####应用截图
-![](http://i4.buimg.com/92053b1ab64ddb31.png  =100x100 ![](http://i4.buimg.com/54734e4bb25b225d.png)  ![](http://i4.buimg.com/43249ed1dc01f74b.png)  ![](http://i4.buimg.com/e022431553ace560.png)  ![](http://i4.buimg.com/6db8418f2d736f9c.png)  ![](http://i4.buimg.com/caa5db910b219812.png) 
+![](http://i4.buimg.com/92053b1ab64ddb31.png  =100x100) ![](http://i4.buimg.com/54734e4bb25b225d.png)  ![](http://i4.buimg.com/43249ed1dc01f74b.png)  ![](http://i4.buimg.com/e022431553ace560.png)  ![](http://i4.buimg.com/6db8418f2d736f9c.png)  ![](http://i4.buimg.com/caa5db910b219812.png) 
