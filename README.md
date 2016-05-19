@@ -62,14 +62,7 @@ public void run() throws Exception {
 [fir.im](http://fir.im/apps/573a9e0f00fc747d17000001)
 <br />
 下载，如果对应用有任何意见，欢迎给我发邮件，不甚感谢;如果喜欢该应用，请分享给您的朋友，谢谢(*^‧^*)
-####关于我
-[我的*CSDN*](http://lios.top)
-<br />
-[我的*GitHub*](https://github.com/osdiy)
-<br />
-[我的*ITPUB*](http://blog.itpub.net/29876893/)
-<br />
-[邮箱:*diy.os.lios@gmail.com*](https://github.com/osdiy/yunweather/blob/master/README.md)
+
 <br />
 ####应用截图
  <img src="http://i4.buimg.com/92053b1ab64ddb31.png" width = "150" height = "300" alt="图片名称" align=center />
@@ -78,4 +71,11 @@ public void run() throws Exception {
   <img src="http://i4.buimg.com/e022431553ace560.png" width = "150" height = "300" alt="图片名称" align=center />
   <img src="http://i4.buimg.com/6db8418f2d736f9c.png" width = "150" height = "300" alt="图片名称" align=center />
   <img src="http://i4.buimg.com/caa5db910b219812.png" width = "150" height = "300" alt="图片名称" align=center />
-
+####关于我
+[我的*CSDN*](http://lios.top)
+<br />
+[我的*GitHub*](https://github.com/osdiy)
+<br />
+[我的*ITPUB*](http://blog.itpub.net/29876893/)
+<br />
+[邮箱:*diy.os.lios@gmail.com*](https://github.com/osdiy/yunweather/blob/master/README.md)
