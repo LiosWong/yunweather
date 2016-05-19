@@ -70,6 +70,7 @@ public void run() throws Exception {
   <img src="http://i4.buimg.com/6db8418f2d736f9c.png" width = "150" height = "300" alt="图片名称" align=center />
   <img src="http://i4.buimg.com/caa5db910b219812.png" width = "150" height = "300" alt="图片名称" align=center />
 ####关于我
+就读于重庆市某所高校,Android开发爱好者
 [我的*CSDN*](http://lios.top)
 <br />
 [我的*GitHub*](https://github.com/osdiy)
