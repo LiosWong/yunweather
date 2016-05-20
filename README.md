@@ -56,7 +56,7 @@ public void run() throws Exception {
 ####应用下载：
 您可以前往
 <br />
-[豌豆荚](http://i4.buimg.com/84a3e8a240525b19.png),
+[豌豆荚](http://www.wandoujia.com/apps/com.yunweather.android),
 <br />
 [fir.im](http://fir.im/apps/573a9e0f00fc747d17000001)
 <br />
