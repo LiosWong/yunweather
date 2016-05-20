@@ -58,7 +58,9 @@ public void run() throws Exception {
 <br />
 [豌豆荚](http://www.wandoujia.com/apps/com.yunweather.android),
 <br />
-[fir.im](http://fir.im/apps/573a9e0f00fc747d17000001)
+[fir.im](http://fir.im/osdiy)
+<br />
+![扫二维码](http://i2.buimg.com/054693098445447f.png)
 <br />
 下载，如果对应用有任何意见，欢迎给我发邮件，不甚感谢;如果喜欢该应用，请分享给您的朋友，谢谢(*^‧^*)
 
