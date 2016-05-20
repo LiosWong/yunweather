@@ -64,7 +64,7 @@ public void run() throws Exception {
 <br  />
 ![扫二维码](http://i2.buimg.com/054693098445447f.png)
 <br />
-下载，如果对应用有任何意见，欢迎给我发邮件，不甚感谢;如果喜欢该应用，请分享给您的朋友，谢谢(*^‧^*)
+下载，如果您对应用有任何意见建议，欢迎给我发邮件，不甚感谢;如果喜欢该应用，请分享给您的朋友，谢谢(*^‧^*)
 
 ####应用截图
  <img src="http://i4.buimg.com/92053b1ab64ddb31.png" width = "150" height = "300" alt="图片名称" align=center />
