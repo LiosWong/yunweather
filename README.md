@@ -60,7 +60,8 @@ public void run() throws Exception {
 <br />
 [fir.im](http://fir.im/osdiy)
 <br />
-或者扫下面二维码
+或者扫下方二维码
+<br  />
 ![扫二维码](http://i2.buimg.com/054693098445447f.png)
 <br />
 下载，如果对应用有任何意见，欢迎给我发邮件，不甚感谢;如果喜欢该应用，请分享给您的朋友，谢谢(*^‧^*)
