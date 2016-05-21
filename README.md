@@ -67,11 +67,13 @@ public void run() throws Exception {
 下载，如果您对应用有任何意见建议，欢迎给我发邮件，不甚感谢;如果喜欢该应用，请分享给您的朋友，谢谢(*^‧^*)
 
 ####应用截图
- <img src="http://i4.buimg.com/92053b1ab64ddb31.png" width = "150" height = "300" alt="图片名称" align=center />
+  <img src="http://i2.buimg.com/2b1d03dc33905c3d.png" width = "150" height = "300" alt="图片名称" align=center />
+  <img src="http://i4.buimg.com/92053b1ab64ddb31.png" width = "150" height = "300" alt="图片名称" align=center />
   <img src="http://i4.buimg.com/54734e4bb25b225d.png" width = "150" height = "300" alt="图片名称" align=center />
   <img src="http://i4.buimg.com/43249ed1dc01f74b.png" width = "150" height = "300" alt="图片名称" align=center />
   <img src="http://i4.buimg.com/e022431553ace560.png" width = "150" height = "300" alt="图片名称" align=center />
   <img src="http://i4.buimg.com/6db8418f2d736f9c.png" width = "150" height = "300" alt="图片名称" align=center />
+  <img src="http://i2.buimg.com/f8c05a1e2d8fc359.png" width = "150" height = "300" alt="图片名称" align=center />
   <img src="http://i4.buimg.com/caa5db910b219812.png" width = "150" height = "300" alt="图片名称" align=center />
 ####关于我
 就读于重庆市某所高校,Android开发爱好者
