@@ -12,7 +12,7 @@
 * 素材来源：
 Material-Design-Icons,[Google Calendar](http://www.google.com/calendar/about/),[Dribbble.com](https://Dribble.com),[花瓣网](http://huaban.com/),[千图网](http://www.58pic.com/)。
 * 开源工具：
-GSON-2.2.4,okhttp-3.2,[ASimpleCache](https://github.com/yangfuhai/ASimpleCache)
+GSON-2.2.4,[okhttp-3.2](https://github.com/osdiy/okhttp),[ASimpleCache](https://github.com/yangfuhai/ASimpleCache)
 
 
 ####项目实施示例
